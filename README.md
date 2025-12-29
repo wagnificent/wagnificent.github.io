@@ -1,2 +1,2 @@
 # wagnificent.github.io
-wagnetron website
+personal website
